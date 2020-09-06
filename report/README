@@ -1,0 +1,20 @@
+DELIVERABLES
+-----------------------------------------------------------
+1. MMIO with and without interrupts - done
+2. DMA with and without interrupts - done.
+3. Multiprocessing/Mutithreading and multiple cdev - done.
+4. mmap - NOT done.
+
+ACKNOWLEDGEMENTS
+----------------------------------------------------------------
+1. MMIO and Character driver apporach was discussed with Anuj, Saurabh Sir.
+2. took help from this link: https://github.com/cirosantilli/linux-kernel-module-cheat/ and https://github.com/subrahhmanya/pci-chardev/blob/master/pci-char.c for various ideas and api uses.
+3. demo2 code is used as template for pci and irq implementation. Also demo1 code is used for sysfs and char device help
+4. dma approach discussed with saketh.
+5. discussed ideas with Saurabh Sir,  Arun Sir, and Deba Sir.
+6. dma-api-how-to documentation for dma implementation
+7. linux kernel driver 3rd edition various chapters.
+8. Told my irq approach idea to sujeet and sumaiya, and dma approach idea to anuj, jenil and nidanshu.
+7. Discussed mmap approach with Arun Sir, and Atul.
+
+
